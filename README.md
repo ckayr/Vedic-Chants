@@ -10,7 +10,7 @@ At the moment, the following are available (sasvara, सस्वर):
 6. sanyAsa sUktam (सन्याससूक्तम्)
 7. shivopAsanamantrANi (शिवोपासनमन्त्राणि)
 8. shrI suktam (श्रीसूक्तम्)
-9. shAshtA mantra (शास्ता मन्त्र)
+9. shAshtA mantra (शास्ता मन्त्रम्)
 10. mantrapuShpam (मन्त्रपुष्पम्)
 11. subrahmaNya mantram (सुब्रह्मण्यमन्त्रम्)
 12. karpUrArati mantram (कर्पूरारतीमन्त्रम्)
