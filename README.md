@@ -15,8 +15,10 @@ At the moment, the following are available (sasvara, सस्वर):
 11. subrahmaNya mantram (सुब्रह्मण्यमन्त्रम्)
 12. karpUrArati mantram (कर्पूरारतीमन्त्रम्)
 13. gaNapatyatharvashIShram (श्रीगणपत्यथर्वशीर्षोपनिषत्)
-14. shriNgerI birudAvali (बिरुदावलिः)
+14. shriNgerI birudAvali (शृङ्गगिरी बिरुदावलिः)
 15. navagraha sUktam (नवग्रहसूक्तम्)
+16. kAncI svastivAcanam/guruvandanam (काञ्ची स्वस्तिवाचनम् - गुरुवन्दनम्)
+17. AyuShya sUktam (आयुष्य सूक्तम्)
 
 Also in Tamil (தமிழ்) script (experimental):
 
